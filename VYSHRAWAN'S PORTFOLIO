@@ -10,7 +10,7 @@
             object-position: center; /* Center the image within the container */
         }
         body {
-            background-color:C1D8C3;
+            background-color:#C1D8C3;
             color: black;
             font-family: Arial, sans-serif;
             text-align: center;
